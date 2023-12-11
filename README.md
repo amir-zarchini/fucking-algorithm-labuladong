@@ -1,4 +1,4 @@
-English version repo and Gitbook is on [english branch](https://github.com/amir-zarchini/fucking-algorithm/tree/english). Just enjoy：)
+English version repo and Gitbook is on [english branch](https://github.com/amir-zarchini/fucking-algorithm-labuladong/tree/english). Just enjoy：)
 
 # labuladong 的算法小抄
 
